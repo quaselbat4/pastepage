@@ -65,7 +65,7 @@ ndg-httpsclient==0.4.3
 newrelic==2.56.0.42
 packaging==16.8
 paramiko==2.3.1
-Pillow==3.0.0
+Pillow==7.1.0
 pkg-resources==0.0.0
 prettytable==0.5
 psycopg2==2.6.1
