@@ -42,7 +42,7 @@ django-urlarchivefield==0.0.8
 docopt==0.6.2
 docutils==0.14
 EasyProcess==0.1.4
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoint2==0.0.5
 enum34==1.1.6
 envoy==0.0.2
