@@ -99,7 +99,7 @@ storytracker==0.0.6
 tldextract==1.4
 tornado==4.5.2
 unicodecsv==0.9.4
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 webcitation==0.0.2
 webkit2png==0.8.2
