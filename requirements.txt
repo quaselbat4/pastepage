@@ -26,7 +26,7 @@ cryptography==2.0.3
 cssutils==0.9.8a3
 decorator==3.3.2
 defusedxml==0.4.1
-Django==1.11.6
+Django==2.2.24
 django-celery-beat==1.0.1
 django-celery-results==1.0.1
 django-cumulus==1.0.5
